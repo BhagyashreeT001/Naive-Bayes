@@ -1,0 +1,10 @@
+Distance,Direction,Markers,shoot
+medium,central,low,yes
+large,central,low,yes
+short,central,high,no
+large,angular,high,no
+short,angular,low,yes
+medium,angular,high,no
+medium,central,medium,yes
+short,central,high,no
+medium,angular,low,yes
